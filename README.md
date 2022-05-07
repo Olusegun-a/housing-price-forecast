@@ -6,9 +6,9 @@ Also, a python flask server will save the model to serve HTTP requests. A websit
 
 ### Components of data mining covers in the project.
 
--Data load and cleaning.
--Outlier detection and removal.
--Feature engineering.
--Dimensionality reduction.
--Gridsearchcv for hyperparameter tunning.
--K fold cross validation, etc. 
+- Data load and cleaning.
+- Outlier detection and removal.
+- Feature engineering.
+- Dimensionality reduction.
+- Gridsearchcv for hyperparameter tunning.
+- K fold cross validation, etc. 
